@@ -10,7 +10,9 @@
 ## :fire: Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiosDim&count_private=true&show_icons=true&show_icons=true&theme=cobalt)
 
-## Top Languages 
+## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiosDim&count_private=true&show_icons=true&show_icons=true&theme=cobalt)
+
+## 📔 Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiosDim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :hammer_and_wrench: Languages and Tools  
