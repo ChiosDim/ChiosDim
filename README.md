@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiosDim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :hammer_and_wrench: Languages and Tools  
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />&nbsp;
   <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;
@@ -25,7 +25,7 @@
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />&nbsp;
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp; <br>
   <img width-50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">&nbsp;
   <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp; 
