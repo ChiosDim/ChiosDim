@@ -1,21 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Dimitris
 
-:school: Currently studying Computer Science at University of Macedonia, Thessaloniki</br>
-🔭 I’m currently working on my thesis about Serious Games Development.
+- :school: Currently studying Computer Science at University of Macedonia, Thessaloniki</br>
+- 🔭 I’m currently working on my thesis about Serious Games Development.
 - 👀 I’m interested in Game Development and Web Development
 - 🌱 I’m currently learning Game Development with Unreal Engine/C#/Blueprints 
-- 📫 How to reach me chiosdimit@gmail.com
+- 📫 How to reach me chiosdimit@gmail.com and https://www.linkedin.com/in/dimitris-chios-a2a7251b9/
 
-## Stats
+## :fire: Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiosDim&count_private=true&show_icons=true&show_icons=true&theme=cobalt)
 
 ## Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiosDim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages and Tools  
+## :hammer_and_wrench: Languages and Tools  
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
+  <img width=50px src="https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ=w240-h480">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp; 
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
