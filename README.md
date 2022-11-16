@@ -4,7 +4,7 @@
 - :school: Studying Applied Informatics - Computer Science at University of Macedonia, Thessaloniki, Greece</br>
 - 🔭 I’m currently working on my thesis about Serious Games Development.
 - 👀 I’m interested in Game Development and Web Development
-- 🌱 Also I’m learning Game Development with Unreal Engine/C#/Blueprints 
+- 🌱 Also I’m currently learning Game Development with Unreal Engine/C#/Blueprints 
 - 📫 How to reach me chiosdimit@gmail.com and https://www.linkedin.com/in/dimitris-chios-a2a7251b9/
 
 ## :fire: Stats
@@ -18,7 +18,7 @@
   <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />&nbsp;
   <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;
-  <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg>">&nbsp;
+  <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" >&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp; 
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
