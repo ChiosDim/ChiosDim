@@ -8,10 +8,10 @@
 - 📫 How to reach me chiosdimit@gmail.com and https://www.linkedin.com/in/dimitris-chios-a2a7251b9/
 
 ## :fire: Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiosDim)](https://github.com/anuraghazra/github-readme-stats)&count_private=true&show_icons=true&show_icons=true&theme=cobalt)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiosDim)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📔 Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :hammer_and_wrench: Languages and Tools  
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;
