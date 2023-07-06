@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my thesis about Serious Games Development.
 - 👀 I’m interested in Game Development and Web Development
 - 🌱 Also I’m currently learning Game Development with Unreal Engine/C#/Blueprints 
-- 📫 How to reach me chiosdimit@gmail.com and https://www.linkedin.com/in/dimitris-chios-a2a7251b9/
+- 📫 How to reach me chiosdimit@gmail.com and [https://www.linkedin.com/in/dimitris-chios-a2a7251b9/](https://www.linkedin.com/in/dimitris-chios/)
 
 ## :fire: Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiosDim&count_private=true&show_icons=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
