@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Game Development with Unreal Engine/C++/Blueprints and Web Development techniques.
 - 📫 How to reach me chiosdimit@gmail.com and https://www.linkedin.com/in/dimitris-chios/
 ## :fire: Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiosDim&count_private=true&show_icons=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ChiosDim&count_private=true&show_icons=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📔 Top Languages 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChiosDim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
