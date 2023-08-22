@@ -2,8 +2,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Dimitris
 
 - :school: Studying Applied Informatics - Computer Science at University of Macedonia, Thessaloniki, Greece</br>
-- 🔭 I’m currently working on my thesis about Serious Games Development.
-- 🌱 Also I’m currently learning Game Development with Unreal Engine/C++/Blueprints and Web Development techniques.
+- 🌱 I’m currently learning Game Development with Unreal Engine/C++/Blueprints and Web Development techniques.
 - 📫 How to reach me chiosdimit@gmail.com and https://www.linkedin.com/in/dimitris-chios/
 ## :fire: Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiosDim&count_private=true&show_icons=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
