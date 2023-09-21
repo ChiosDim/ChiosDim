@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Dimitris
 
-- :school: Studying Applied Informatics - Computer Science at University of Macedonia, Thessaloniki, Greece</br>
-- 🌱 I’m currently learning Game Development with Unreal Engine/C++/Blueprints and Web Development techniques.
+- :school: I'm studying Applied Informatics - Computer Science and Technology at University of Macedonia, Thessaloniki, Greece and I'm in my last semester</br>
+- 🌱 I’m currently learning Game Development with Unreal Engine/C++/Blueprints and Web Development techniques through my own personal projects and collaborations.
 - 📫 How to reach me chiosdimit@gmail.com and https://www.linkedin.com/in/dimitris-chios/
 ## :fire: Stats
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ChiosDim&count_private=true&show_icons=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
