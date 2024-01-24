@@ -30,4 +30,4 @@
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp; 
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,atom,eclipse,unreal,java,c,cpp,js,react,express,nodejs,html,css,php,mysql,postgres&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,atom,eclipse,unreal,java,c,cpp,js,react,express,nodejs,html,css,php,mysql,postgres)](https://skillicons.dev)
