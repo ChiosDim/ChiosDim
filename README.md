@@ -14,4 +14,4 @@
 
 ## :hammer_and_wrench: Languages and Tools  
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,atom,eclipse,unreal,java,c,cpp,js,react,express,nodejs,html,css,php,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,atom,eclipse,unreal,androidstudio,java,c,cpp,js,react,express,nodejs,html,css,php,mysql,postgres)](https://skillicons.dev)
