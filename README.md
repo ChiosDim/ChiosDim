@@ -28,3 +28,6 @@
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp; 
+
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,atom,eclipse,unreal,java,c,cpp,js,react,express,nodejs,html,css,php,mysql,postgres&perline=5)](https://skillicons.dev)
