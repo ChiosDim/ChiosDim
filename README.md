@@ -5,10 +5,14 @@
 - 🌱 I’m currently learning Game Development with Unreal Engine/C++/Blueprints and Web Development techniques through collaborative and my own personal projects.
 - 📫 How to reach me chiosdimit@gmail.com and https://www.linkedin.com/in/dimitris-chios/
 ## :fire: Stats
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ChiosDim&count_private=true&show_icons=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
 
 ## 📔 Top Languages 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChiosDim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
+
 
 ## :hammer_and_wrench: Languages and Tools  
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;
