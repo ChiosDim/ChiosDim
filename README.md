@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Dimitris
 
 - :school: I'm studying Applied Informatics - Computer Science and Technology at University of Macedonia, Thessaloniki, Greece and I'm in my last semester</br>
-- 🌱 I’m currently learning Game Development with Unreal Engine/C++/Blueprints and Web Development techniques through collaborative and my own personal projects.
+- 🌱 I’m currently learning Web Development techniques through collaborative and my own personal projects.
 - 📫 How to reach me chiosdimit@gmail.com and https://www.linkedin.com/in/dimitris-chios/
 ## :fire: Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChiosDim&theme=discord_old_blurple)
